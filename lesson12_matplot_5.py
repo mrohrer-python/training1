@@ -7,3 +7,5 @@ x = np.random.normal(100, 15, 200)
 plt.hist(x)
 
 plt.show()
+
+print(x)
